@@ -8,7 +8,12 @@
  */
 module.exports = function( ceiling ) {
   // do work here
+var smallestNum = [];
+var number = 0;
 
+for (var i=0; i<10;i++){
+
+  }
 
   return 0;
 };
